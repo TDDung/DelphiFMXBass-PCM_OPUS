@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.922,C:\Users\SACRED\Documents\Embarcadero\Studio\Projects\Unit3.fmx=C:\Users\SACRED\Desktop\Chat Test\Unit3.fmx</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.014,=C:\Users\SACRED\Desktop\Chat Test\lib\FMX.Radio.Bass.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.725,C:\Users\SACRED\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\SACRED\Desktop\Chat Test\Project3.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.922,C:\Users\SACRED\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\SACRED\Desktop\Chat Test\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.106,=C:\Users\SACRED\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/01/26 02:49:39.000.837,D:\WatchAndDelete\BASS\BassOpus.6.FileProcsUDPMemPush\Sender.dproj=D:\WatchAndDelete\BASS\BassOpus.6.FileProcsUDPMemPush\Project3.dproj</Transaction>
+    <Transaction>2021/01/26 02:50:37.000.044,D:\WatchAndDelete\BASS\BassOpus.6.FileProcsUDPMemPush\uSender.pas=D:\WatchAndDelete\BASS\BassOpus.6.FileProcsUDPMemPush\Unit3.pas</Transaction>
+    <Transaction>2021/01/26 02:50:37.000.044,D:\WatchAndDelete\BASS\BassOpus.6.FileProcsUDPMemPush\uSender.fmx=D:\WatchAndDelete\BASS\BassOpus.6.FileProcsUDPMemPush\Unit3.fmx</Transaction>
+    <Transaction>2021/04/19 06:33:04.000.918,D:\WatchAndDelete\-0-\BassOpus.9.FileProcsUDPMemPush-MicPush\Sender.dproj=D:\WatchAndDelete\-0-\BassOpus.9.FileProcsUDPMemPush-MicPush\PCM_Opus.dproj</Transaction>
+    <Transaction>2021/04/19 06:36:21.000.214,D:\WatchAndDelete\-0-\BassOpus.9.FileProcsUDPMemPush-MicPush\uSender.fmx=D:\WatchAndDelete\-0-\BassOpus.9.FileProcsUDPMemPush-MicPush\Main.fmx</Transaction>
+    <Transaction>2021/04/19 06:36:21.000.214,D:\WatchAndDelete\-0-\BassOpus.9.FileProcsUDPMemPush-MicPush\uSender.pas=D:\WatchAndDelete\-0-\BassOpus.9.FileProcsUDPMemPush-MicPush\Main.pas</Transaction>
+    <Transaction>2021/04/19 06:48:33.000.700,D:\WatchAndDelete\-0-\BassOpus.9.FileProcsUDPMemPush-MicPush\lib\FMX.Radio.Bass.pas=</Transaction>
+    <Transaction>2021/04/19 07:40:58.000.490,=D:\WatchAndDelete\-0-\PCM-Opus\Lib\bassopus.pas</Transaction>
+    <Transaction>2021/04/19 07:40:58.000.443,=D:\WatchAndDelete\-0-\PCM-Opus\Lib\bassenc_opus.pas</Transaction>
+    <Transaction>2021/04/19 07:40:58.000.334,=D:\WatchAndDelete\-0-\PCM-Opus\Lib\bass.pas</Transaction>
+    <Transaction>2021/04/19 07:40:58.000.396,=D:\WatchAndDelete\-0-\PCM-Opus\Lib\bassenc.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+		<PMyMac iOSSimulator="iPhone5"/>
+		<PMYVM iOSSimulator="iPhone5"/>
+		<PMacOSX iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

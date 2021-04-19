@@ -1,0 +1,86 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  BorderStyle = ToolWindow
+  Caption = 'PCM-OPUS'
+  ClientHeight = 198
+  ClientWidth = 365
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnClose = FormClose
+  DesignerMasterStyle = 0
+  object btnStartMicSaveOpusStream: TButton
+    StyledSettings = [Family, Size, Style]
+    Position.X = 24.000000000000000000
+    Position.Y = 117.000000000000000000
+    Size.Width = 313.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Start recording PCM + save Opus in memory stream'
+    TextSettings.FontColor = claBlue
+    OnClick = btnStartMicSaveOpusStreamClick
+  end
+  object btnStopMicSaveOpusFile: TButton
+    Enabled = False
+    StyledSettings = [Family, Size, Style]
+    Position.X = 24.000000000000000000
+    Position.Y = 157.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Stop and save Opus file'
+    TextSettings.FontColor = claBlue
+    OnClick = btnStopMicSaveOpusFileClick
+  end
+  object btnPlayOpusFile: TButton
+    Enabled = False
+    StyledSettings = [Family, Size, Style]
+    Position.X = 184.000000000000000000
+    Position.Y = 157.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Playback Opus file'
+    TextSettings.FontColor = claBlue
+    OnClick = btnPlayOpusFileClick
+  end
+  object Label1: TLabel
+    AutoSize = True
+    StyledSettings = [Family]
+    Position.X = 34.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 297.000000000000000000
+    Size.Height = 38.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 14.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.FontColor = claRed
+    TextSettings.HorzAlign = Trailing
+    Text = 
+      '1. DO NOT FORGET TO COPY DLL FILES INTO THE SAME FOLDER WITH THI' +
+      'S PROGRAM'
+    TabOrder = 5
+  end
+  object Label2: TLabel
+    AutoSize = True
+    StyledSettings = [Family]
+    Position.X = 33.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 297.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 15.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.FontColor = claRed
+    TextSettings.HorzAlign = Trailing
+    Text = 
+      '2. THE RESULT OPUS FILE WILL BE SAVED INTO THE FOLDER OF THIS PR' +
+      'OGRAM'
+    TabOrder = 4
+  end
+end
