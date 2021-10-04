@@ -5,7 +5,7 @@ Hi,
 
 This is a quick-and-dirty demo to show how to use BASS audio library's add-ons to record PCM audio data and encode it into OPUS audio data. This OPUS audio data can be played back directly or decoded back to PCM audio data (if needed).
 
-Sine I made this demo quickly in less than 1 hour, and I am a little busy at the moment, it is only for Windows (32-bit). When I have more time, I will update my DelphiFMX-BASS with more add-ons for all platforms that Delphi's FireMonkey framework supports. So stay tuned :-)
+Since I made this demo quickly in less than 1 hour, and I am a little busy at the moment, it is only for Windows (32-bit). When I have more time, I will update my DelphiFMX-BASS with more add-ons for all platforms that Delphi's FireMonkey framework supports. So stay tuned :-)
 
 Brief description about BASS audio library
 ------------------------------------------
